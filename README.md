@@ -1,2 +1,2 @@
 # Prediction_Healthy_Horses
-MultiClassification, Predict That Horses Die,Lived or euthanized !!!
+<b>kaggle Competition<b> :: MultiClassification, Predict That Horses Die,Lived or euthanized !!!
